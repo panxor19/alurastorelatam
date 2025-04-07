@@ -29,7 +29,7 @@ El objetivo es proporcionar una recomendación basada en datos para que el Sr. J
 Instalación
 -----------
 1. Clona este repositorio:
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/panxor19/alurastorelatam.git
 
 2. Navega al directorio del proyecto:
    cd tu-repositorio
