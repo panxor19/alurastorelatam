@@ -73,6 +73,4 @@ Conclusión
 ----------
 Con base en el análisis, se recomienda que el Sr. Juan venda sus productos en la tienda con el mejor desempeño en ingresos, calificaciones y distribución geográfica. Los detalles completos están documentados en el informe final.
 
-Contribuciones
---------------
-Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request. ¡Toda ayuda es bienvenida!
+
